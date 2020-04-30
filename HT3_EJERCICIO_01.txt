@@ -1,0 +1,3 @@
+Julio	20	Guatemala	2500
+Hector	19	Mexico	3900
+Danilo	45	Costa	3900
